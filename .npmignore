@@ -1,0 +1,18 @@
+# Ignore unnecessary files and folders for npm package
+node_modules/
+dist/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+logs/
+*.log
+.env
+*.tsbuildinfo
+
+# Ignore test files
+src/**/*.test.tsx
+src/**/*.test.ts
+
+# Ignore local configuration files
+package-lock.json
