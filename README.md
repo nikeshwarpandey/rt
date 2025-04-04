@@ -14,8 +14,8 @@ Install the CLI globally using npm:
 
 ```bash
 # npm install -g latest-react-cli-ts
-npm install -g rt-ts
-npx install -g rt-ts
+npm install -g cli-react-ts
+npx install -g cli-react-ts
 ```
 
 ## Usage
@@ -23,8 +23,8 @@ npx install -g rt-ts
 ### Create a New React Project
 
 ```bash
- rt-ts create-project <projectname>
- rt-ts crp <projectname>
+ cli-react-ts create-project <projectname>
+ cli-react-ts crp <projectname>
 ```
 
 - **Alias**: `crp`
@@ -37,8 +37,8 @@ npx install -g rt-ts
 ### Create a New Component
 
 ```bash
-rt-ts create-component <componentname>
-rt-ts crc <componentname>
+cli-react-ts create-component <componentname>
+cli-react-ts crc <componentname>
 ```
 
 - **Alias**: `crc`
@@ -51,8 +51,8 @@ rt-ts crc <componentname>
 ### Create a New Hook
 
 ```bash
-rt-ts create-hook <hookname>
-rt-ts crh <hookname>
+cli-react-ts create-hook <hookname>
+cli-react-ts crh <hookname>
 ```
 
 - **Alias**: `crh`
@@ -96,7 +96,7 @@ rt-ts crh <hookname>
 
 Use the CLI commands locally after linking:
 ```bash
-rt-ts <command>
+cli-react-ts <command>
 ```
 
 ## License

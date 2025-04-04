@@ -1,5 +1,5 @@
 {
-  "name": "rt-ts",
+  "name": "cli-react-ts",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "rt-ts": "./dist/index.js"
+    "cli-react-ts": "./dist/index.js"
   },
   "dependencies": {
     "@types/node": "^22.14.0",
