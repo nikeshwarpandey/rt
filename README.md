@@ -23,7 +23,7 @@ npx install -g rt
 ### Create a New React Project
 
 ```bash
-latest-react-cli-ts create-project <projectname>
+ rt create-project <projectname>
  rt crp <projectname>
 ```
 
@@ -37,7 +37,7 @@ latest-react-cli-ts create-project <projectname>
 ### Create a New Component
 
 ```bash
-latest-react-cli-ts create-component <componentname>
+rt create-component <componentname>
 rt crc <componentname>
 ```
 
@@ -51,7 +51,7 @@ rt crc <componentname>
 ### Create a New Hook
 
 ```bash
-latest-react-cli-ts create-hook <hookname>
+rt create-hook <hookname>
 rt crh <hookname>
 ```
 
@@ -96,7 +96,7 @@ rt crh <hookname>
 
 Use the CLI commands locally after linking:
 ```bash
-latest-react-cli-ts <command>
+rt <command>
 ```
 
 ## License
